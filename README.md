@@ -1,16 +1,14 @@
 ## Welcome to the Diplomacy Guide
 
-My name is Erik and I'll be your guide. My friend Mr. Barbosa is here to help as well. 
+My name is Erik and I'll be your guide.
 
 ![That's me at Saint Olaf College](/images/stolaf.png)
-
-![Mr. Barbosa](/images/barbosa.png)
 
 Everything I know about Diplomacy I learned from Mr. Barbosa. [Here's a short story about how I met him.](https://leanpub.com/diplomacy)
 
 The best way to donate to our cause is by sending a few shekels through my Paypal. [Donate to Paypal now.](https://paypal.me/erikv/7)
 
-Reading not your thing? Try the podcast. 
+Reading not your thing? Try the podcast. (Or this, by two blokes in Australia
 
 *You'll also find snippets of audio inline within each section.*
 
@@ -23,17 +21,23 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 *Simply click on any section heading below to move to that part of the guide.*
 
 [toc]
-* first in list
-* next in list
-* the rules
-* scoring systems
+* The Rules (don't be intimidated; they are elegant)
+* Scoring Systems
+* Frequently Asked Questions (Such as: Where can I play online? In real life?)
+* Opening Theory
 * [Turkey](#Turkey) 
 
 ## The Rules 
 
 ## Scoring Systems
 
-## Conventions (not to be confused with cons)
+## Frequently Asked Questions
+
+Conduct
+Norms
+Where can I play online?
+Where can I play in real life (face-to-face)? -clubs, tournaments, conventions
+I'd like to observe first: Where might I do that? -on my twitch channel! https://twitch.tv/decision_
 
 ## Opening Theory
 
