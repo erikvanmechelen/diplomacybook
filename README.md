@@ -1,14 +1,14 @@
 ## Dare to be Dangerous
 
-My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first game, or simply hoping to step up your game to an intermediate level, you've come to the right place!
+My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games, or simply hoping to step up your game to an intermediate level, you've come to the right place!
 
 ![That's me at Saint Olaf College](/images/stolaf.png)
 
 **Who am I?** 
 
-I first played Diplomacy at age 15 in 2002. It was a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and stream online games on Twitch. 
+I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and stream online games on Twitch. 
 
-Keeping up this resource and additional strategy material at [Diplo Strategy](https://diplostrategy.com) is hard work. 
+Creating and maintaining this free strategy resource and additional strategy material at [Diplo Strategy](https://diplostrategy.com) is hard work. So why am I even doing this? Simple. I believe Diplomacy is one of the best--if not *the* best--board game ever created. It's not going anywhere. As a ritual of several of our most important survival toolkits--communication, competition, collaboration--it is second to no other game. I want you to enjoy your first game and your 50th game. My wish is for us to be on the same tournament board, for you to stab me, and then tell me you learned how because of my work.
 
 The best way to [donate to this cause](https://paypal.me/erikv/7) is by sending a few shekels through my Paypal. [Donate to Paypal now.](https://paypal.me/erikv/7). Even a few bucks helps. If you prefer to support me on a monthly basis, try [tipping my podcast] or subscribing to [my Twitch Stream, the Diplomatic Circle](https://twitch.tv/decision_). 
 
