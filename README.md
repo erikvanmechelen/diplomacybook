@@ -12,9 +12,9 @@ Creating and maintaining this free strategy resource and additional strategy mat
 
 Here's a few ways to support this work:
 
-* [Donate through Paypal](https://paypal.me/erikv/7)--Even a few shekels helps 
-* [Tip my podcast](https://tips.pinecast.com/jar/diplomacy-podcast)
-* [Subscribing to my Twitch Stream, the Diplomatic Circle](https://twitch.tv/decision_) 
+* [Donate through Paypal](https://paypal.me/erikv/7)--Even a few shekels helps (one-time)
+* [Tip my podcast](https://tips.pinecast.com/jar/diplomacy-podcast) (one-time or monthly)
+* [Subscribe to my Twitch Stream, the Diplomatic Circle](https://twitch.tv/decision_) (monthly)
 
 Reading not your thing? Try the podcast. (Most of this content is there too.)
 
