@@ -26,14 +26,27 @@ Without a proper guide, the high seas of Diplomacy are indeed treacherous!
 
 Be forewarned. This guide is extensive--if not comprehensive--and as such I have built the following, shall we say, lighthouses, to chart your path through the enigmatic darkness.
 
+```markdown
+
 *Simply click on any section heading below to jump to that part of the guide.*
 
 [toc]
-* The Rules (don't be intimidated; they are elegant)
-* Scoring Systems
-* Frequently Asked Questions (Such as: Where can I play online? In real life?)
-* Opening Theory
-* [Turkey](#Turkey) 
+- The Rules (don't be intimidated; they are elegant)
+- Scoring Systems
+- Frequently Asked Questions (Such as: Where can I play online? In real life?)
+- Opening Theory
+- [Turkey](#Turkey) 
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 ## The Rules 
 
@@ -56,7 +69,6 @@ Value system !
 Here's what I get asked most often. 
 
 ```markdown
-Syntax highlighted code block
 
 # Where can I play online?
 # Where can I play in real life (face-to-face)? -clubs, tournaments, conventions
