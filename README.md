@@ -28,12 +28,20 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 
 *Simply click on any section heading below to jump to that part of the guide.*
 
-[toc]
-- #### The Rules (don't be intimidated; they are elegant)
-- Scoring Systems
-- Frequently Asked Questions (Such as: Where can I play online? In real life?)
-- Opening Theory
-- [Turkey](#Turkey) 
+- ##### [The Rules](#The Rules)
+- ##### [Scoring Systems](#Scoring Systems)
+- ##### [Frequently Asked Questions](#Frequently Asked Questions)
+- ##### [Opening Theory](Opening Theory)
+- ##### [28 Useful Openings](28 Useful Openings)
+- ##### [Turkey](#Turkey) 
+- ##### [Russia](#Russia)
+- ##### [Italy](#Italy)
+- ##### [Germany](#Germany)
+- ##### [France](#France)
+- ##### [England](#England)
+- ##### [Austria] (#Austria)
+- ##### [Middle Game Theory](#Middle Game Theory)
+- ##### [End Game Theory](#End Game Theory)
 
 - Bulleted
 - List
