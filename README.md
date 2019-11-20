@@ -4,7 +4,7 @@ My name is Erik and I'll be your guide on this Diplomacy journey. Whether you ar
 
 ![That's me at Saint Olaf College](/images/stolaf.png)
 
-**Who am I?** 
+#### Who am I?
 
 I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and stream online games on Twitch. 
 
@@ -12,17 +12,17 @@ Creating and maintaining this free strategy resource and additional strategy mat
 
 The best way to [donate to this cause](https://paypal.me/erikv/7) is by sending a few shekels through my Paypal. [Donate to Paypal now.](https://paypal.me/erikv/7). Even a few bucks helps. If you prefer to support me on a monthly basis, try [tipping my podcast] or subscribing to [my Twitch Stream, the Diplomatic Circle](https://twitch.tv/decision_). 
 
-Reading not your thing? Try the podcast. (Or this, by two blokes in Australia
+Reading not your thing? Try the podcast. (Most of this content is there too.)
 
 *You'll also find snippets of audio inline within each section.*
 
 ### Navigating These Diplomatic Waters
 
-The high seas of Diplomacy are treacherous enough! 
+Without a proper guide, the high seas of Diplomacy are indeed treacherous! 
 
-Be forewarned. This guide is extensive--if not comprehensive--and as such I have created the following, shall we say, lighthouses, to chart your path.
+Be forewarned. This guide is extensive--if not comprehensive--and as such I have built the following, shall we say, lighthouses, to chart your path through the enigmatic darkness.
 
-*Simply click on any section heading below to move to that part of the guide.*
+*Simply click on any section heading below to jump to that part of the guide.*
 
 [toc]
 * The Rules (don't be intimidated; they are elegant)
@@ -33,9 +33,41 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 
 ## The Rules 
 
+Some missing aspects of the rules. 
+
+Remember to send an article to Diplomacy World #141? Would be great to get this in there as a resource ;) 
+
+Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy.pdf) from the version of the game I own. 
+
+[This page on WikiBooks](https://en.wikibooks.org/wiki/Diplomacy/Rules) is useful too.
+
 ## Scoring Systems
 
+Quote from Brandon Fogel's JANUS ARTICLE
+
+Value system ! 
+
 ## Frequently Asked Questions
+
+Here's what I get asked most often. 
+
+```markdown
+Syntax highlighted code block
+
+# Where can I play online?
+# Where can I play in real life (face-to-face)? -clubs, tournaments, conventions
+# I'd like to observe first: Where might I do that? -on my twitch channel! https://twitch.tv/decision_
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 Conduct
 Norms
