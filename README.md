@@ -31,7 +31,6 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 - ##### [Where to Play](#Play)
 - ##### [The Rules](#Rules)
 - ##### [Scoring Systems](#Scoring)
-- ##### [Frequently Asked Questions](#FAQ)
 - ##### [Opening Theory](Opening_Theory)
 - ##### [28 Useful Openings](28_Openings)
 - ##### [Turkey](#Turkey) 
@@ -81,33 +80,6 @@ Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy
 Quote from Brandon Fogel's JANUS ARTICLE
 
 Value system ! 
-
-## Frequently Asked Questions
-
-Here's what I get asked most often. 
-
-```markdown
-
-# Where can I play online?
-# Where can I play in real life (face-to-face)? -clubs, tournaments, conventions
-# I'd like to observe first: Where might I do that? -on my twitch channel! https://twitch.tv/decision_
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-Conduct
-Norms
-Where can I play online?
-Where can I play in real life (face-to-face)? -clubs, tournaments, conventions
-I'd like to observe first: Where might I do that? -on my twitch channel! https://twitch.tv/decision_
 
 ## Opening Theory
 
