@@ -67,17 +67,13 @@ Here's a video of how to get started on Backstabbr. (backstabbr.com)
 
 ## The Rules (#Rules)
 
-Some missing aspects of the rules. 
-
-Remember to send an article to Diplomacy World #141? Would be great to get this in there as a resource ;) 
-
 Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy.pdf) from the version of the game I own. 
 
 [This page on WikiBooks](https://en.wikibooks.org/wiki/Diplomacy/Rules) is useful too.
 
 ## Scoring Systems
 
-Quote from Brandon Fogel's JANUS ARTICLE
+Brandon Fogel's discussion of [the Janus Scoring System](https://github.com/erikvanmechelen/diplomacybook/blob/master/2019-07%20-%20Systems%20of%20Value%20in%20Diplomacy%20(Janus)%20v3%20(1).pdf) provides a brief history of scoring systems and advocates for the upcoming Janus approach.
 
 Value system ! 
 
