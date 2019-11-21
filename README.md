@@ -28,6 +28,7 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 
 *Simply click on any section heading below to jump to that part of the guide.*
 
+- ##### [Where to Play](#Play)
 - ##### [The Rules](#Rules)
 - ##### [Scoring Systems](#Scoring)
 - ##### [Frequently Asked Questions](#FAQ)
@@ -54,7 +55,17 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 [Link](url) and ![Image](src)
 
 
-## The Rules 
+## Where to Play (#Play)
+
+My favorite way to play is face-to-face, in club games or, better, in a multi-game tournament. 
+
+However, there are also many places to play online. 
+
+Here's a video of how to get started on Backstabbr. (backstabbr.com)
+Here's a video of how to get started on Conspiracy. (Android app)
+...
+
+## The Rules (#Rules)
 
 Some missing aspects of the rules. 
 
