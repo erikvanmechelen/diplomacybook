@@ -59,10 +59,10 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 
 My favorite way to play is face-to-face, in club games or, better, in a multi-game tournament. 
 
-However, there are also many places to play online. 
+However, there are also many places to play online.</br> 
 
-Here's a video of how to get started on Backstabbr. (backstabbr.com)
-Here's a video of how to get started on Conspiracy. (Android app)
+Here's a video of how to get started on Backstabbr. (backstabbr.com)</br>
+Here's a video of how to get started on Conspiracy. (Android app)</br>
 ...
 
 ## The Rules (#Rules)
