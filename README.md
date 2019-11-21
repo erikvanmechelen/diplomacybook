@@ -64,7 +64,7 @@ Here's a video of how to get started on Backstabbr. (backstabbr.com)
 
 [Watch this video](https://youtu.be/mgWste5NwNY) on how to get started on [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app&hl=en_US). (Android app)
 
-To watch Diplomacy online live, follow [Daily Diplomacy](https://twitch.tv/decision_/. 
+To watch Diplomacy streamed live online, follow [Daily Diplomacy](https://twitch.tv/decision_/). 
 
 ## The Rules <a name="Rules"></a>
 
