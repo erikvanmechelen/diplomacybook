@@ -63,7 +63,8 @@ There are several good places to play online.
 Here's a video of how to get started on Backstabbr. (backstabbr.com)
 
 [Watch this video](https://youtu.be/mgWste5NwNY) on how to get started on [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app&hl=en_US). (Android app)
-...
+
+To watch Diplomacy online live, follow [Daily Diplomacy](https://twitch.tv/decision_/. 
 
 ## The Rules (#Rules)
 
@@ -118,4 +119,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
