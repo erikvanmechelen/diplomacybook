@@ -39,7 +39,7 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 - ##### [Germany](#Germany)
 - ##### [France](#France)
 - ##### [England](#England)
-- ##### [Austria] (#Austria)
+- ##### [Austria](#Austria)
 - ##### [Middle Game Theory](#Middle_Game_Theory)
 - ##### [End Game Theory](#End_Game_Theory)
 
@@ -71,6 +71,8 @@ To watch Diplomacy online live, follow [Daily Diplomacy](https://twitch.tv/decis
 Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy.pdf) from the version of the game I own. 
 
 [This page on WikiBooks](https://en.wikibooks.org/wiki/Diplomacy/Rules) is useful too.
+
+Looking for general strategy dating back decades? Try the [Diplomacy Archive](http://www.diplomacy-archive.com/home.htm).
 
 ## Scoring Systems <a name="Scoring"></a>
 
