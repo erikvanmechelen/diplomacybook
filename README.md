@@ -14,7 +14,7 @@ Here's a few ways to support this work:
 
 * [Donate through Paypal](https://paypal.me/erikv/7)--Even a few shekels helps (one-time)
 * [Tip my podcast](https://tips.pinecast.com/jar/diplomacy-podcast) (one-time or monthly)
-* [Subscribe to my Twitch Stream, the Diplomatic Circle](https://twitch.tv/decision_) (monthly)
+* [Subscribe to my Twitch Stream, Daily Diplomacy](https://twitch.tv/decision_) (monthly)
 
 Reading not your thing? Try the podcast. (Most of this content is there too.)
 
@@ -31,8 +31,8 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 - ##### [Where to Play](#Play)
 - ##### [The Rules](#Rules)
 - ##### [Scoring Systems](#Scoring)
-- ##### [Opening Theory](Opening_Theory)
-- ##### [28 Useful Openings](28_Openings)
+- ##### [Opening Theory](#Opening_Theory)
+- ##### [28 Useful Openings](#28_Openings)
 - ##### [Turkey](#Turkey) 
 - ##### [Russia](#Russia)
 - ##### [Italy](#Italy)
@@ -66,23 +66,34 @@ Here's a video of how to get started on Backstabbr. (backstabbr.com)
 
 To watch Diplomacy online live, follow [Daily Diplomacy](https://twitch.tv/decision_/. 
 
-## The Rules (#Rules)
+## The Rules <a name="Rules"></a>
 
 Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy.pdf) from the version of the game I own. 
 
 [This page on WikiBooks](https://en.wikibooks.org/wiki/Diplomacy/Rules) is useful too.
 
-## Scoring Systems
+## Scoring Systems <a name="Scoring"></a>
 
 Brandon Fogel's discussion of [the Janus Scoring System](https://github.com/erikvanmechelen/diplomacybook/blob/master/2019-07%20-%20Systems%20of%20Value%20in%20Diplomacy%20(Janus)%20v3%20(1).pdf) provides a brief history of scoring systems and advocates for the upcoming Janus approach.
 
 Value system ! 
 
-## Opening Theory
+## Opening Theory <a name="Opening_Theory"></a>
 
 ## Turkey <a name="Turkey"></a>
 
-## etc.
+## Russia <a name="Russia"></a>
+
+## Italy <a name="Italy"></a>
+
+## Germany <a name="Germany"></a>
+
+## France <a name="France"></a>
+
+## English <a name="English"></a>
+
+## Austria <a name="Austria"></a>
+
 
 
 You can use the [editor on GitHub](https://github.com/erikvanmechelen/diplomacybook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
