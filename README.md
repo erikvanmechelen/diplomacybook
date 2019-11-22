@@ -16,9 +16,7 @@ Here's a few ways to support this work:
 * [Tip my podcast](https://tips.pinecast.com/jar/diplomacy-podcast) (one-time or monthly)
 * [Subscribe to my Twitch Stream, Daily Diplomacy](https://twitch.tv/decision_) (monthly)
 
-Reading not your thing? Try the podcast. (Most of this content is there too.)
-
-*You'll also find snippets of audio inline within each section.*
+Reading not your thing? Try [the Diplomacy Podcast](https://diplomacypodcast.com). (Most of this content is there too.)
 
 ### Navigating These Diplomatic Waters
 
@@ -32,31 +30,10 @@ Be forewarned. This guide is extensive--if not comprehensive--and as such I have
 - ##### [The Rules](#Rules)
 - ##### [Scoring Systems](#Scoring)
 - ##### [Opening Theory](#Opening_Theory)
-- ##### [28 Useful Openings](#28_Openings)
-- ##### [Turkey](#Turkey) 
-- ##### [Russia](#Russia)
-- ##### [Italy](#Italy)
-- ##### [Germany](#Germany)
-- ##### [France](#France)
-- ##### [England](#England)
-- ##### [Austria](#Austria)
-- ##### [Middle Game Theory](#Middle_Game_Theory)
-- ##### [End Game Theory](#End_Game_Theory)
 
-- Bulleted
-- List
+## Where to Play <a name="Play"></a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-## Where to Play (#Play)
-
-My favorite way to play is face-to-face, in club games or, better, in a multi-game tournament. 
+My favorite way to play is face-to-face, in club games, or, better, in a multi-game tournament. 
 
 There are several good places to play online.
 
@@ -102,54 +79,20 @@ He who can influence his opponents to collaborate at the right moments and misdi
 
 ...[read more](https://leanpub.com/diplomacy/).
 
-## Turkey <a name="Turkey"></a>
-
-## Russia <a name="Russia"></a>
-
-## Italy <a name="Italy"></a>
-
-## Germany <a name="Germany"></a>
-
-## France <a name="France"></a>
-
-## English <a name="English"></a>
-
-## Austria <a name="Austria"></a>
-
-
-
-You can use the [editor on GitHub](https://github.com/erikvanmechelen/diplomacybook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Stealing Your Destiny
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erikvanmechelen/diplomacybook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Diplomacy is far far more than ensuring you get your orders in on time. 
 
-### Support or Contact
+But to give too much away--and believe me, I'm trying--is also double-edge, because it takes away some of the fun of making your own mistakes and discovering new ways that the old guard didn't see. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
+This gives you a chance to try new things, like ordering `A Lvp H` (!) for diplomatic reasons. 
+
+See my ongoing Livestreaming Diplomacy show, [Diplomacy Daily](https://twitch.tv/decision_), on Twitch. Or watch the highlights on [my YouTube channel](https://www.youtube.com/channel/UCHd8aV8-hVwWafem1tiXClw?view_as=subscriber).
+
+I'll bounce you soon! 
+
+Best regards,
+Erik van Mechelen
