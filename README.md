@@ -79,9 +79,6 @@ He who can influence his opponents to collaborate at the right moments and misdi
 
 ...[read more](https://leanpub.com/diplomacy/).
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## Stealing Your Destiny
 
 Diplomacy is far far more than ensuring you get your orders in on time. 
