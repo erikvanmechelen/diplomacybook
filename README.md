@@ -78,9 +78,29 @@ Looking for general strategy dating back decades? Try the [Diplomacy Archive](ht
 
 Brandon Fogel's discussion of [the Janus Scoring System](https://github.com/erikvanmechelen/diplomacybook/blob/master/2019-07%20-%20Systems%20of%20Value%20in%20Diplomacy%20(Janus)%20v3%20(1).pdf) provides a brief history of scoring systems and advocates for the upcoming Janus approach.
 
-Value system ! 
+Under what winning and draw conditions a game is played greatly affects the individual strategies and approaches the players take on.
 
 ## Opening Theory <a name="Opening_Theory"></a>
+
+To my way of thinking, the choice of Opening should depend on information gathered from other players and support a near-term strategy consistent with that information and your own goals. Maybe you need to counter the expected opening of your neighbor. Maybe you want to position your units so as to better collaborate with your desired ally. You don’t choose your opening; the opening chooses you.
+
+For more on Opening Theory, try Richard Sharp's [The Game of Diplomacy](http://www.diplomacy-archive.com/god.htm) or see my own views for each Great Power in this stylized book, [Diplomacy: Conversations with Barbosa](https://leanpub.com/diplomacy/).
+
+Here's an excerpt:
+
+PHILOSOPHY
+
+Frederico fancied discussions about Diplomacy as much as anyone. Sometimes he preferred them to playing the game itself.  
+
+What is the fundamental nature of Diplomacy?, he asked me prior to our only ever game together.  
+
+For me, Diplomacy is a 7-player game about area control guided by secret and simultaneous piece movement. The player who most effectively manages and strategically expands his territory wins or takes part in a draw. If we advance the discussion to include game theory, all good strategies include one thing: effective negotiation. In a word, Diplomacy.  
+
+Mr. Barbosa didn't mind this description, though he had his quibbles.  
+
+He who can influence his opponents to collaborate at the right moments and misdirect them in others improves his drawing and winning chances. The game was a ritual, he argued, which had comparisons to Machiavellian political philosophy as well as to notions of realpolitik present in the era contemporary to the starting positions of the game: 1901.
+
+...[read more](https://leanpub.com/diplomacy/).
 
 ## Turkey <a name="Turkey"></a>
 
