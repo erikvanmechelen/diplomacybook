@@ -8,7 +8,7 @@ My name is Erik and I'll be your guide on this Diplomacy journey. Whether you ar
 
 I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and stream online games on Twitch. I expect to play at least two face-to-face tournaments in 2020, including the World Diplomacy Championships.
 
-Creating and maintaining this free strategy resource and additional strategy material at [Diplo Strategy](https://diplostrategy.com) is hard work. So why am I even doing this? Simple. I believe Diplomacy is one of the best--if not *the* best--board game ever created. It's not going anywhere. As a ritual of several of our most important survival toolkits--communication, competition, collaboration--it is second to no other game. I want you to enjoy your first game and your 50th game. My wish is for us to be on the same tournament board, for you to stab me, and then tell me you learned how because of my work.
+Creating and maintaining this free strategy resource and additional strategy material at [Diplo Strategy](https://diplostrategy.com) is hard work. So why am I even doing this? Simple. **I believe Diplomacy is one of the best--if not *the* best--board game ever created.** It's not going anywhere. As a ritual of several of our most important survival toolkits--communication, competition, collaboration--it is second to no other game. I want you to enjoy your first game and your 50th game. My wish is for us to be on the same tournament board, for you to stab me, and then tell me you learned how because of my work.
 
 Here's a few ways to support this work:
 
@@ -21,8 +21,6 @@ Reading not your thing? Try [the Diplomacy Podcast](https://diplomacypodcast.com
 ### Navigating These Diplomatic Waters
 
 Without a proper guide, the high seas of Diplomacy are indeed treacherous! 
-
-Be forewarned. This guide is extensive--if not comprehensive--and as such I have built the following, shall we say, lighthouses, to chart your path through the enigmatic darkness.
 
 *Simply click on any section heading below to jump to that part of the guide.*
 
