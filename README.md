@@ -31,7 +31,7 @@ Without a proper guide, the high seas of Diplomacy are indeed treacherous!
 
 ## Where to Play <a name="Play"></a>
 
-My favorite way to play is face-to-face, in club games, or, better, in a multi-game tournament. 
+My favorite way to play is face-to-face, in club games, or, better, in a multi-game tournament. Why? Because there is a level of commitment that players who take a car, train, or plane to show up at a game have made, which will make it more likely they will be strong opponents. For me, capable competent opponents are preferred to undedicated Diplomacy dabblers.
 
 There are several good places to play online.
 
