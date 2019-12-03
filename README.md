@@ -33,6 +33,14 @@ Without a proper guide, the high seas of Diplomacy are indeed treacherous!
 
 My favorite way to play is face-to-face, in club games, or, better, in a multi-game tournament. Why? Because there is a level of commitment that players who take a car, train, or plane to show up at a game have made, which will make it more likely they will be strong opponents. For me, capable competent opponents are preferred to undedicated Diplomacy dabblers.
 
+If you're starting a club or local game, try these Diplomacy Games Journals to keep new players organized and less overwhelmed:
+
+[Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372) 
+[Diplomacy Games Journal - Germany Edition](https://www.amazon.com/dp/1704300924)
+[Diplomacy Games Journal - Italy Edition](https://www.amazon.com/dp/1704232562)
+
+England, France, Russia, and Turkey flavored versions coming soon.
+
 There are several good places to play online.
 
 Here's a video of how to get started on Backstabbr. (backstabbr.com)
