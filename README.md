@@ -35,9 +35,9 @@ My favorite way to play is face-to-face, in club games, or, better, in a multi-g
 
 If you're starting a club or local game, try these Diplomacy Games Journals to keep new players organized and less overwhelmed:
 
-[Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372) 
-[Diplomacy Games Journal - Germany Edition](https://www.amazon.com/dp/1704300924)
-[Diplomacy Games Journal - Italy Edition](https://www.amazon.com/dp/1704232562)
+[Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372) </br>
+[Diplomacy Games Journal - Germany Edition](https://www.amazon.com/dp/1704300924) </br>
+[Diplomacy Games Journal - Italy Edition](https://www.amazon.com/dp/1704232562) </br>
 
 England, France, Russia, and Turkey flavored versions coming soon.
 
