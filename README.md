@@ -101,4 +101,4 @@ See my ongoing Livestreaming Diplomacy show, [Diplomacy Daily](https://twitch.tv
 I'll bounce you soon! 
 
 Best regards,
-Erik van Mechelen
+Erik van Mechelen 
